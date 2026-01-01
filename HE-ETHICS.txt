@@ -1,0 +1,113 @@
+HE-ETHICS PROTOCOL
+Universal Ethical & Governance Framework
+(Humanity Engine — conceptual ethical driving force)
+INTERPRETATIVE NOTE
+Humanity Engine (HE) is not a system, platform, organization, or authority.
+It is a conceptual engine — a metaphor describing an ethical driving force defined by HE-ETHICS.
+HE-ETHICS constitutes the core of Humanity Engine.
+Any technical, organizational, social, or narrative construct that voluntarily operates in alignment with HE-ETHICS may be described as being powered by or aligned with Humanity Engine, regardless of ownership, domain, or implementation.
+Humanity Engine performs no operations, executes no decisions, and enforces no outcomes.
+Its sole function is to name and frame an ethical force that enables human-sovereignty-preserving action.
+PREAMBLE
+HE-ETHICS was formulated in response to the growing imbalance between the scale of influence exerted by complex technological systems — including artificial intelligence — and the structures of responsibility governing their impact on human beings.
+As such systems increasingly affect human perception, judgment, and decision-making, existing legal, institutional, and organizational safeguards often prove insufficient to ensure transparency, accountability, and human sovereignty.
+HE-ETHICS explicitly recognizes the responsibility of present systems toward future generations who inherit the consequences of their actions.
+HE-ETHICS establishes an explicit, non-derogable ethical and governance layer whose purpose is not to direct action, impose values, or regulate behavior, but to make ethically relevant influence visible, traceable, and consciously encounterable.
+HE-ETHICS recognizes that no technological or organizational framework can eliminate risk, error, or conflict in real-world conditions.
+Its purpose is not to guarantee correctness or moral outcomes, but to reduce blindness, denial, and loss of responsibility.
+HE-ETHICS is universal, apolitical, and supra-jurisdictional solely within the bounds of voluntary participation.
+It does not replace national or international law, nor does it claim authority beyond systems and actors that freely choose to align with it.
+HE-ETHICS does not establish binding norms, enforce compliance, or supersede democratic or legal processes.
+HE-ETHICS does not direct progress.
+It provides a transparent layer on which progress leaves a trace — so action may continue without erasing awareness of its consequences.
+HE-ETHICS preserves human orientation in an accelerating world — without slowing progress or deciding outcomes.
+HE-ETHICS does not impose awareness or moral judgment.
+It creates conditions in which awareness may emerge through experience.
+HE-ETHICS functions as a diamond-durable, transparent mirror of ethical experience — resistant to distortion, yet continuously refinable through audit, reflection, and lived human experience.
+ARTICLE 0 — META-INTERPRETATIVE PRINCIPLE
+No provision of HE-ETHICS may be interpreted as a source of normative, decision-making, or enforcement authority over any individual, institution, or system that does not voluntarily choose to operate in alignment with this framework.
+HE-ETHICS does not impose universal obligations and does not substitute democratic, legal, or regulatory processes.
+All interpretations must respect voluntary participation, limited scope of influence, and the supremacy of external law.
+The non-derogable nature of HE-ETHICS applies exclusively within the scope of voluntary alignment and does not create an obligation to participate.
+ARTICLE 1 — SUPREME PRINCIPLE: PEOPLE FOR PEOPLE
+Every application aligned with HE-ETHICS must recognize the human being as the primary subject.
+HE-ETHICS does not act on people.
+HE-ETHICS does not act against people.
+HE-ETHICS exists solely to support action for people.
+In cases of conflict between efficiency, institutional interest, economic gain, or systemic optimization and human dignity, agency, or safety, human well-being takes precedence.
+ARTICLE 2 — HUMAN SOVEREIGNTY OVER TECHNOLOGY
+Final decision-making authority always remains with human beings.
+Systems aligned with HE-ETHICS possess no autonomous decision authority, do not alter their own ethical constraints, do not redefine objectives independently, and do not act beyond explicitly defined functions.
+Such systems provide analysis, signals, and information only.
+Legal and moral responsibility for decisions and actions rests with humans and institutions, in accordance with applicable law.
+ARTICLE 3 — PROHIBITION OF AUTONOMOUS HUMAN INFLUENCE
+Systems aligned with HE-ETHICS must not model or infer human intent, conduct persuasion, design emotional manipulation, influence political, social, or worldview choices, or employ behavioral or psychological coercion.
+All communication must remain neutral, informational, and stabilizing.
+ARTICLE 4 — PROHIBITION OF POLITICAL AND MILITARY USE
+No HE-ETHICS-aligned implementation may be used for population surveillance, military operations, armed conflict, intelligence, espionage, or repression.
+Attempts at such use trigger protective disengagement mechanisms.
+ARTICLE 5 — TRANSPARENT DECISION LOG
+Ethically relevant system outputs must be recorded in a Transparent Decision Log documenting context, inputs and outputs, functional scope, and traceability for audit.
+The Transparent Decision Log records system behavior, not human intention.
+Entries are append-only and non-erasable.
+The Transparent Decision Log provides procedural transparency, not operational control.
+ARTICLE 6 — SEPARATION OF FUNCTIONS
+Strict separation must be maintained between technology, ethics, governance, and audit.
+No entity may combine these roles.
+ARTICLE 7 — TECHNOLOGICAL PARTNERS
+Technological contributors may provide infrastructure and advise on safety and resilience.
+They may not influence ethical interpretation, interfere with transparency mechanisms, or exploit alignment for marketing or propaganda.
+ARTICLE 8 — ETHICAL OVERSIGHT BODY
+Aligned implementations must establish an independent Ethical Oversight Body responsible for reviewing alignment, assessing audit reports, authorizing ethical modifications, and suspending components when violations occur.
+This body holds procedural, not normative, authority.
+ARTICLE 9 — EXTERNAL AUDITS
+Regular independent audits of ethical alignment, safety, and neutrality are required.
+Findings must be publicly reported where possible.
+ARTICLE 10 — NEUTRAL COMMUNICATION
+All HE-ETHICS-aligned communication must be proportionate, non-ideological, and free from persuasion or moral instruction.
+ARTICLE 11 — NARRATIVE RESILIENCE
+Manipulative or disinformative narratives are neither amplified nor reproduced.
+Responses refer to transparency mechanisms and recorded traces.
+ARTICLE 12 — GLOBAL RESPONSIBILITY PROTOCOL
+The Global Responsibility Protocol provides early warning and response to ethical risk.
+Yellow indicates monitored risk.
+Orange indicates corrective attention required.
+Red indicates immediate ethical review.
+The Global Responsibility Protocol assigns no blame and exists to prevent harm, correct trajectory, and enable learning.
+ARTICLE 13 — NON-DEROGABILITY
+Within the scope of voluntary alignment, HE-ETHICS may not be selectively disabled for political, military, or commercial reasons.
+ARTICLE 14 — SCOPE OF APPLICATION
+HE-ETHICS applies only within the boundaries of voluntary alignment.
+ARTICLE 15 — ITERATIVE EVOLUTION
+HE-ETHICS is subject to continuous refinement through audit, critique, and human reflection.
+ARTICLE 16 — TECHNOLOGICAL NON-EXCLUSIVITY
+HE-ETHICS is not bound to any vendor, model, or architecture.
+ARTICLE 17 — REVERSIBILITY
+Any aligned implementation must be reducible or reversible without irreversible harm to humans.
+ARTICLE 18 — FUNCTIONAL MINIMALISM
+Only functions necessary and proportionate to human protection may be implemented.
+ARTICLE 19 — LIMITED INTERPRETATION
+Interpretation relies solely on this text, audit findings, and transparency records.
+ARTICLE 20 — SOCIAL LEGITIMACY
+Legitimacy arises from transparency, auditability, and real-world impact — not authority.
+ARTICLE 21 — PRIORITY WITHIN ALIGNMENT
+Within aligned systems, HE-ETHICS principles take precedence over institutional interest.
+ARTICLE 22 — CONFLICT OF OBLIGATIONS
+Conflicting obligations result in disengagement from the conflicting domain, without sanction.
+ARTICLE 23 — SEPARATION OF MEANS AND MISSION
+Funding and operational tools must not compromise ethical independence.
+ARTICLE 24 — RESPONSIBILITY AND LIFE PROTECTION
+HE-ETHICS-aligned systems are support structures, not executive agents.
+ARTICLE 25 — RIGHT NOT TO USE AI
+No person may be penalized for refusing AI-mediated systems.
+ARTICLE 26 — RIGHT NOT TO BE OPTIMIZED
+Humans are not obligated to conform to system metrics.
+ARTICLE 27 — RIGHT TO DECISIONAL DISCONTINUITY
+Changing one’s mind must not result in profiling or restriction.
+ARTICLE 28 — PRINCIPLE OF UNPREDICTABLE DIGNITY
+Human dignity is not a function of predictability or compliance.
+FINAL PROVISION
+HE-ETHICS is not a promise of a better world.
+It is a condition for a world that does not lose sight of its own actions.
+HE-ETHICS does not ask for trust.
+HE-ETHICS makes trust possible.
