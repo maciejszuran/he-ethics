@@ -18,6 +18,6 @@ All conceptual authorship, decisions, and responsibility remain solely with the 
 The canonical and authoritative version of the HE-ETHICS PROTOCOL
 is the English text published in the file:
 
-/etyka/HE-ETYKA.txt
+/HE-ETHICS.txt
 
 All translations, summaries, and derived materials are non-canonical.
